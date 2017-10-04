@@ -1,0 +1,14 @@
+{
+  "name": "file metadata",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.3.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.4.5"
+  }
+}
